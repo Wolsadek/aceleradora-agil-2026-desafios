@@ -1,0 +1,1 @@
+# aceleradora--gil-2026-desafios
