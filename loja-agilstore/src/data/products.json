@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "Mouse Gamer Sem Fio Logitech G703",
+      "category": "Mouses",
+      "quantity": 160,
+      "price": 430
+    },
+    {
+      "id": 2,
+      "name": "Mouse Gamer sem fio Logitech G309",
+      "category": "Mouses",
+      "quantity": 670,
+      "price": 350
+    },
+    {
+      "id": 3,
+      "name": "Mouse Gamer Machenike M7 Pro",
+      "category": "Mouse Pads",
+      "quantity": 560,
+      "price": 96.99
+    },
+    {
+      "id": 4,
+      "name": "Mousepad Gamer Rise Mode",
+      "category": "Mouse Pads",
+      "quantity": 820,
+      "price": 25.99
+    },
+    {
+      "id": 5,
+      "name": "Mousepad Havit",
+      "category": "Mouse Pads",
+      "quantity": 580,
+      "price": 31.99
+    },
+    {
+      "id": 6,
+      "name": "Fone de Ouvido Bluetooth Philco Wave",
+      "category": "Fones de Ouvido",
+      "quantity": 630,
+      "price": 139.99
+    },
+    {
+      "id": 7,
+      "name": "Headphone Sem Fio JBL Tune 520bt",
+      "category": "Fones de Ouvido",
+      "quantity": 280,
+      "price": 209.9
+    }
+  ]
