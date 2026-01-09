@@ -52,7 +52,7 @@ Antes de começar, certifique-se de ter instalado:
 ### 1️⃣ Clone o repositório
 ```bash
 git clone https://github.com/wolsadek/aceleradora-agil-2026
-cd aceleradora-agil-2026
+cd aceleradora-agil-2026-desafios
 ```
 
 ---
@@ -103,8 +103,6 @@ npm install
 npm run dev
 ```
 
-A aplicação estará disponível em: **http://localhost:5173**
-
 ### 📝 Funcionalidades:
 - 🔍 Busca de imagens por termo
 - 🖼️ Grid responsivo de fotos
@@ -140,9 +138,9 @@ aceleradora-agil-2026/
 
 ## 👨‍💻 Autor
 
-**[Seu Nome]**  
+**Lorenzo Concato Jesien**  
 Candidato - Aceleradora Ágil 2026/1  
-📧 [seu.email@example.com](mailto:estudominucioso@gmail.com)  
+📧 [estudominucioso@gmail.com](mailto:estudominucioso@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/lorenzo-concato-jesien/) | [GitHub](https://github.com/wolsadek)
 
 ---
